@@ -4,3 +4,5 @@ llama-index-embeddings-huggingface
 torch
 transformers
 requests
+gunicorn
+
