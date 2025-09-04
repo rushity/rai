@@ -1,0 +1,6 @@
+Flask
+llama-index
+llama-index-embeddings-huggingface
+torch
+transformers
+requests
