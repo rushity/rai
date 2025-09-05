@@ -9,4 +9,5 @@ torch==2.5.1
 transformers==4.44.2
 huggingface-hub==0.23.5
 tokenizers==0.19.1
+regex==2024.9.11
 typing-extensions==4.12.2
